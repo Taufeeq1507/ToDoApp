@@ -1,6 +1,6 @@
 
 
-const API_URL='https://todoapp-uovw.onrender.com/api/task/';
+const API_URL='/api/task/';
 const todoList=document.getElementById('todo-list');
 const todoForm=document.getElementById('todo-form');
 
